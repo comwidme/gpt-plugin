@@ -1,0 +1,22 @@
+{
+  "interface": {
+    "capabilities": [],
+    "category": "Productivity",
+    "composerIcon": "./assets/icon.svg",
+    "defaultPrompt": "prompt-design \uc2a4\ud0ac\uc744 \uc0ac\uc6a9\ud574 \uc544\ub798 \ud504\ub86c\ud504\ud2b8\ub97c \ubaa9\uc801\uacfc \uc870\uac74\uc744 \ubcf4\uc874\ud558\uba74\uc11c \uace0\ub3c4\ud654\ud574 \uc8fc\uc138\uc694.",
+    "developerName": "Matthew Choi",
+    "displayName": "Prompt Design Tools",
+    "logo": "./assets/icon.svg",
+    "longDescription": "\uae30\uc874 \uac1c\uc778\uc6a9 Prompt Design \uc2a4\ud0ac\uc744 \ubcf4\uc874\ud55c \uc2a4\ud0ac \uc804\uc6a9 \ud50c\ub7ec\uadf8\uc778. Chat\uacfc Work\uc6a9 \ud504\ub86c\ud504\ud2b8\ub97c \uc124\uacc4, \uc9c4\ub2e8, \uac1c\uc120, \uc555\ucd95\ud569\ub2c8\ub2e4. MCP \uc11c\ubc84\ub098 \uc678\ubd80 \uc11c\ube44\uc2a4 \uc5f0\uacb0\uc774 \uc5c6\uc2b5\ub2c8\ub2e4.",
+    "shortDescription": "\ud504\ub86c\ud504\ud2b8 \uc124\uacc4\u00b7\uc9c4\ub2e8\u00b7\uace0\ub3c4\ud654\u00b7\uc555\ucd95"
+  },
+  "name": "prompt-design-tools",
+  "version": "1.0.0",
+  "description": "Design, diagnose, improve, and compress prompts with the preserved personal prompt-design skill. Skills only; no MCP servers or external services.",
+  "author": {
+    "name": "Matthew Choi",
+    "email": "comwidme@gmail.com"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}
